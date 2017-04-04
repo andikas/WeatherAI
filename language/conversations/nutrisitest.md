@@ -3,8 +3,8 @@ title: nutrisitest
 timestamp: 2017-04-04T13:23:31.9752006+07:00
 ---
 
-show city test
+show cycle test
 * nutrisi/test
 
-< batam smartcity
+< batam smartcycle
 * nutrisi/test
